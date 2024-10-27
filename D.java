@@ -19,7 +19,7 @@ public class D {
         }
     }
 
-    public void MD4(){
-        System.out.println("Método: MD4");
+    public void MD3(){
+        System.out.prinln("Método: MD3");
     }
 }
