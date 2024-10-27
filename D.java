@@ -18,8 +18,9 @@ public class D {
             return 0;
         }
     }
-
+    
     public void MD4(){
+        
         System.out.println("Método: MD4");
     }
 }
