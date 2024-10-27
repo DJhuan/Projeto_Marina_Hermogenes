@@ -18,4 +18,8 @@ public class D {
             return 0;
         }
     }
+
+    public void MD3(){
+        System.out.println("Método: MD3");
+    }
 }
